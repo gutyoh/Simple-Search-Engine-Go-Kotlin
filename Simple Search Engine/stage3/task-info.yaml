@@ -1,0 +1,7 @@
+type: edu
+custom_name: stage3
+files:
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
+  - name: main.go
+    visible: true

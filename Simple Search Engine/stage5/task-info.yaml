@@ -1,0 +1,7 @@
+type: edu
+custom_name: stage5
+files:
+  - name: test/SearchEngineTests.java
+    visible: false
+  - name: test/SimpleSearchEngineTest.java
+    visible: false
